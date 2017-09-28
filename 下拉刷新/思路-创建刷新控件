@@ -1,0 +1,4 @@
+1.刚开始时创建TableViewController并且同main.storyboard关联起来
+2.去创建刚打开时会出现的一些内容 即加载数据
+3.建立一个UIView 上面有下拉刷新显示的view
+4.把这个view加入Tableview
