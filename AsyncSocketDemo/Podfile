@@ -1,0 +1,4 @@
+platform:ios,'9.0'
+target 'AsyncSocketDemo' do
+    pod 'CocoaAsyncSocket','~>7.6.1'
+end
